@@ -6,9 +6,9 @@ const About = () => {
         <div className='pb-8'>
             <p className=' text-4xl font-bold inline border-b-4 border-gray-800'>About</p>
         </div>
-        <p className='text-xl mt-20'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, repellendus aliquid quidem, quia debitis tenetur neque aliquam sit minima perferendis corrupti illo accusamus beatae cumque laudantium corporis, iusto aperiam molestiae.</p>
+        <p className='text-xl mt-20'>My name is Abhishek Santra, I born and raised in Odisha, and currently I am pursuing B. Tech in computer Science and Engineering, from C V Raman Global University, Bhubaneswar with an aggregate of 9.2 CGPA till the current semester.</p>
         <br />
-        <p className='text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+        <p className='text-xl'>I am a web developer focused on crafting clean and user friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</p>
     </div>
     </div>
   )
